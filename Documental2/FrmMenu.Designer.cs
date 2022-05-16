@@ -293,7 +293,7 @@
             this.btnMarca.Name = "btnMarca";
             this.btnMarca.Size = new System.Drawing.Size(115, 26);
             this.btnMarca.TabIndex = 3;
-            this.btnMarca.Text = "Marca de Agua";
+            this.btnMarca.Text = "Generar QR";
             this.btnMarca.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnMarca.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnMarca.UseVisualStyleBackColor = true;
